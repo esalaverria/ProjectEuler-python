@@ -13,5 +13,5 @@ for i in range(1, limit + 1):
                 maxi = i
                 maxj = j
 
-print maxProd
-print "{i} x {j}".format(i=maxi, j=maxj)
+print(maxProd)
+print("{i} x {j}".format(i=maxi, j=maxj))

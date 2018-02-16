@@ -20,5 +20,5 @@ for i in xrange(2, 2000000):
     if isPrime(i):
         sum += i
 
-print 'Time: {:.5f} seconds'.format(time.time()-start)
-print sum
+print('Time: {:.5f} seconds'.format(time.time()-start))
+print(sum)

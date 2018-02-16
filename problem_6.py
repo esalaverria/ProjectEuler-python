@@ -10,4 +10,4 @@ for i in range(1, 101):
 
 sum = sum**2
 
-print sum - sum_squares
+print(sum - sum_squares)

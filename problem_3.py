@@ -19,5 +19,5 @@ for i in range(3, limit, 2):
     if isPrime(i) and n % i == 0:
         lastFactor = i
 
-print lastFactor
+print(lastFactor)
 

@@ -10,4 +10,4 @@ while num <= 4000000:
     y = x
     x = num
 
-print sum
+print(sum)

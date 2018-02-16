@@ -22,7 +22,7 @@ for line in numbers:
 
         num = 1
 
-print maxnum
-print adjacents
-print subline
+print(maxnum)
+print(adjacents)
+print(subline)
 

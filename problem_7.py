@@ -17,4 +17,4 @@ while counter <= 10001:
     if isPrime(num):
         counter += 1
 
-print num
+print(num)

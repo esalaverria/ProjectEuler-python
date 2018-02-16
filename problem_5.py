@@ -4,7 +4,7 @@ i = 1
 iterate = True
 while iterate:
     while iterate:
-        print "num: {0}, i: {1}".format(num, i)
+        print("num: {0}, i: {1}".format(num, i))
         if num % i == 0:
             i += 1
         else:
@@ -17,4 +17,4 @@ while iterate:
         i = 1
         iterate = True
 
-print num
+print(num)
